@@ -1,6 +1,6 @@
 # Temperature conversion
 
-Output:<pre>C:\php main.php
+Output:<pre>C:\tempconv\php main.php
 
 Enter a value in kelvin (q to quit): 100
  K  100.00
